@@ -1,0 +1,4 @@
+__pycache__/
+artifacts.zip
+weights/
+performance.json

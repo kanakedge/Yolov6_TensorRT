@@ -1,0 +1,8 @@
+{
+    "artifacts_path":"http://localhost:8000/densenet121_classification.zip",
+    "modelname":"yolov6n",
+    "sessionid":"chidha123",
+    "quantization":"fp16",
+    "calibration_data": "s3://enap-train-data/roboflow_cheetah/data.zip"
+  }
+  

@@ -1,0 +1,1 @@
+python deploy/ONNX/export_onnx.py --weights weights/yolov6n.pt
